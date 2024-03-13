@@ -1,0 +1,253 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\WebOliger\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AFEE2BE0-2D52-4D7F-8DDC-D2D866EC6EA1}|WebOliger.csproj|c:\\users\\user\\desktop\\weboliger\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFEE2BE0-2D52-4D7F-8DDC-D2D866EC6EA1}|WebOliger.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFEE2BE0-2D52-4D7F-8DDC-D2D866EC6EA1}|WebOliger.csproj|c:\\users\\user\\desktop\\weboliger\\views\\home\\resume.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AFEE2BE0-2D52-4D7F-8DDC-D2D866EC6EA1}|WebOliger.csproj|solutionrelative:views\\home\\resume.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFEE2BE0-2D52-4D7F-8DDC-D2D866EC6EA1}|WebOliger.csproj|c:\\users\\user\\desktop\\weboliger\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFEE2BE0-2D52-4D7F-8DDC-D2D866EC6EA1}|WebOliger.csproj|solutionrelative:controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFEE2BE0-2D52-4D7F-8DDC-D2D866EC6EA1}|WebOliger.csproj|c:\\users\\user\\desktop\\weboliger\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AFEE2BE0-2D52-4D7F-8DDC-D2D866EC6EA1}|WebOliger.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFEE2BE0-2D52-4D7F-8DDC-D2D866EC6EA1}|WebOliger.csproj|c:\\users\\user\\desktop\\weboliger\\views\\home\\admin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AFEE2BE0-2D52-4D7F-8DDC-D2D866EC6EA1}|WebOliger.csproj|solutionrelative:views\\home\\admin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFEE2BE0-2D52-4D7F-8DDC-D2D866EC6EA1}|WebOliger.csproj|c:\\users\\user\\desktop\\weboliger\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFEE2BE0-2D52-4D7F-8DDC-D2D866EC6EA1}|WebOliger.csproj|solutionrelative:services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFEE2BE0-2D52-4D7F-8DDC-D2D866EC6EA1}|WebOliger.csproj|c:\\users\\user\\desktop\\weboliger\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFEE2BE0-2D52-4D7F-8DDC-D2D866EC6EA1}|WebOliger.csproj|solutionrelative:dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFEE2BE0-2D52-4D7F-8DDC-D2D866EC6EA1}|WebOliger.csproj|c:\\users\\user\\desktop\\weboliger\\migrations\\20240313041315_addcategoriescolumn.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFEE2BE0-2D52-4D7F-8DDC-D2D866EC6EA1}|WebOliger.csproj|solutionrelative:migrations\\20240313041315_addcategoriescolumn.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFEE2BE0-2D52-4D7F-8DDC-D2D866EC6EA1}|WebOliger.csproj|c:\\users\\user\\desktop\\weboliger\\migrations\\20240313041315_addcategoriescolumn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFEE2BE0-2D52-4D7F-8DDC-D2D866EC6EA1}|WebOliger.csproj|solutionrelative:migrations\\20240313041315_addcategoriescolumn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFEE2BE0-2D52-4D7F-8DDC-D2D866EC6EA1}|WebOliger.csproj|c:\\users\\user\\desktop\\weboliger\\weboliger.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AFEE2BE0-2D52-4D7F-8DDC-D2D866EC6EA1}|WebOliger.csproj|solutionrelative:weboliger.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFEE2BE0-2D52-4D7F-8DDC-D2D866EC6EA1}|WebOliger.csproj|c:\\users\\user\\desktop\\weboliger\\appsettings.production.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AFEE2BE0-2D52-4D7F-8DDC-D2D866EC6EA1}|WebOliger.csproj|solutionrelative:appsettings.production.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFEE2BE0-2D52-4D7F-8DDC-D2D866EC6EA1}|WebOliger.csproj|c:\\users\\user\\desktop\\weboliger\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AFEE2BE0-2D52-4D7F-8DDC-D2D866EC6EA1}|WebOliger.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFEE2BE0-2D52-4D7F-8DDC-D2D866EC6EA1}|WebOliger.csproj|c:\\users\\user\\desktop\\weboliger\\properties\\resources.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFEE2BE0-2D52-4D7F-8DDC-D2D866EC6EA1}|WebOliger.csproj|solutionrelative:properties\\resources.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFEE2BE0-2D52-4D7F-8DDC-D2D866EC6EA1}|WebOliger.csproj|C:\\Users\\user\\Desktop\\WebOliger\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{AFEE2BE0-2D52-4D7F-8DDC-D2D866EC6EA1}|WebOliger.csproj|solutionrelative:properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WebOliger.csproj",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\WebOliger\\WebOliger.csproj",
+              "RelativeDocumentMoniker": "WebOliger.csproj",
+              "ToolTip": "C:\\Users\\user\\Desktop\\WebOliger\\WebOliger.csproj",
+              "RelativeToolTip": "WebOliger.csproj",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAEsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-12T17:34:19.329Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\WebOliger\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\WebOliger\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "Controllers\\AdminController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAA7wB4AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T06:14:33.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\WebOliger\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\WebOliger\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAkAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-13T06:02:22.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\WebOliger\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\WebOliger\\Services\\UserService.cs",
+              "RelativeToolTip": "Services\\UserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T04:01:57.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Resume.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\WebOliger\\Views\\Home\\Resume.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Resume.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\WebOliger\\Views\\Home\\Resume.cshtml",
+              "RelativeToolTip": "Views\\Home\\Resume.cshtml",
+              "ViewState": "AQIAANIAAAAAAAAAAAAAANsAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-13T03:34:16.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Admin.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\WebOliger\\Views\\Home\\Admin.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Admin.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\WebOliger\\Views\\Home\\Admin.cshtml",
+              "RelativeToolTip": "Views\\Home\\Admin.cshtml",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAADMAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-13T03:30:29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DbContext.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\WebOliger\\DbContext.cs",
+              "RelativeDocumentMoniker": "DbContext.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\WebOliger\\DbContext.cs",
+              "RelativeToolTip": "DbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T03:18:46.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\WebOliger\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\WebOliger\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAwwEwAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T14:25:28.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20240313041315_AddCategoriesColumn.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\WebOliger\\Migrations\\20240313041315_AddCategoriesColumn.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240313041315_AddCategoriesColumn.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\WebOliger\\Migrations\\20240313041315_AddCategoriesColumn.cs",
+              "RelativeToolTip": "Migrations\\20240313041315_AddCategoriesColumn.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T04:28:56.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20240313041315_AddCategoriesColumn.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\WebOliger\\Migrations\\20240313041315_AddCategoriesColumn.Designer.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240313041315_AddCategoriesColumn.Designer.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\WebOliger\\Migrations\\20240313041315_AddCategoriesColumn.Designer.cs",
+              "RelativeToolTip": "Migrations\\20240313041315_AddCategoriesColumn.Designer.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAiwDIAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T04:29:02.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.Production.json",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\WebOliger\\appsettings.Production.json",
+              "RelativeDocumentMoniker": "appsettings.Production.json",
+              "ToolTip": "C:\\Users\\user\\Desktop\\WebOliger\\appsettings.Production.json",
+              "RelativeToolTip": "appsettings.Production.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-12T14:47:18.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\WebOliger\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\user\\Desktop\\WebOliger\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-12T18:26:53.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Resources.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\WebOliger\\Properties\\Resources.Designer.cs",
+              "RelativeDocumentMoniker": "Properties\\Resources.Designer.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\WebOliger\\Properties\\Resources.Designer.cs",
+              "RelativeToolTip": "Properties\\Resources.Designer.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAADgvxgAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T18:25:02.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Resources.resx",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\WebOliger\\Properties\\Resources.resx",
+              "RelativeDocumentMoniker": "Properties\\Resources.resx",
+              "ToolTip": "C:\\Users\\user\\Desktop\\WebOliger\\Properties\\Resources.resx",
+              "RelativeToolTip": "Properties\\Resources.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-03-12T18:24:58.08Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
