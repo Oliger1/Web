@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WebOliger")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+92fb98891757e3854f47a1b08445199ad3fe36a0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7236c226fa77147f84fc87d314b219ae3b132c36")]
 [assembly: System.Reflection.AssemblyProductAttribute("WebOliger")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WebOliger")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

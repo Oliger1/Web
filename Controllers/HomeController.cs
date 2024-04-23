@@ -15,6 +15,7 @@ namespace WebOliger.Controllers
         private readonly ILogger<HomeController> _logger;
         private static readonly List<ResumeModel> Resumes = new();
         private readonly ApplicationDbContext _context;
+     
 
         public HomeController(ILogger<HomeController> logger, ApplicationDbContext context)
         {
@@ -43,7 +44,10 @@ namespace WebOliger.Controllers
         }
 
 
-
+        public IActionResult Review()
+        {
+            return View();
+        }
 
 
 
@@ -74,6 +78,7 @@ namespace WebOliger.Controllers
                 {
                     resume.Title = title;
                     resume.Description = description;
+                    resume.Category = category;
                     _context.SaveChanges();
                 }
                 else if (action == "delete")
@@ -167,6 +172,8 @@ namespace WebOliger.Controllers
         {
             return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
         }
+
+
 
 
 

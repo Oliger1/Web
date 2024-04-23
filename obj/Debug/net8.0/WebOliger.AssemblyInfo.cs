@@ -11,11 +11,12 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.AspNetCore.Identity.UI.UIFrameworkAttribute("Bootstrap5")]
 [assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("6f122ccc-307e-47f7-913f-4f3560369969")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("WebOliger")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2bb5aee936df9d12b43a17876034b28be1e1a2ee")]
 [assembly: System.Reflection.AssemblyProductAttribute("WebOliger")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WebOliger")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

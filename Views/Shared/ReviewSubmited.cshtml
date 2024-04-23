@@ -1,0 +1,25 @@
+﻿@model IEnumerable<ReviewModel>
+
+<h2>Reviews</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>User</th>
+            <th>Rating</th>
+            <th>Comment</th>
+            <th>Date</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var review in Model)
+        {
+            <tr>
+                <td>@review.UserShowed</td>
+                <td>@review.Rating</td>
+                <td>@review.Comment</td>
+                <td>@review.Date.ToLocalTime()</td>
+            </tr>
+        }
+    </tbody>
+</table>

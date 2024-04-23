@@ -6,6 +6,10 @@ using Microsoft.Extensions.Hosting;
 using Microsoft.EntityFrameworkCore;
 using WebOliger.Models;
 using Microsoft.AspNetCore.Mvc;
+using static System.Runtime.InteropServices.JavaScript.JSType;
+using System.Drawing;
+using Microsoft.AspNetCore.Identity;
+using WebOliger.Entity;
 
 public class Program
 {
@@ -13,12 +17,12 @@ public class Program
     {
         var builder = WebApplication.CreateBuilder(args);
 
-        // Konfigurimi i shërbimeve
+        // Konfigurimi i shï¿½rbimeve
         ConfigureServices(builder.Services, builder.Configuration);
 
         var app = builder.Build();
 
-        // Konfigurimi i middleware të përpunimit të kërkesave HTTP
+        // Konfigurimi i middleware tï¿½ pï¿½rpunimit tï¿½ kï¿½rkesave HTTP
         Configure(app, builder.Configuration);
 
         app.Run();
@@ -28,12 +32,21 @@ public class Program
     {
         // Regjistrimi i DbContext
         services.AddDbContext<ApplicationDbContext>(options =>
-      options.UseSqlServer("Data Source=OLIGERi\\SQLEXPRESS;Initial Catalog=Resume;Integrated Security=True;Multiple Active Result Sets=True;Trust Server Certificate=True"));
+            options.UseSqlServer("Data Source=SQL6031.site4now.net;User ID=db_aa6c02_resume_admin;Password=Oliger12.;Connect Timeout=30;Encrypt=True;Trust Server Certificate=True;Application Intent=ReadWrite;Multi Subnet Failover=False;Initial Catalog=db_aa6c02_resume"));
 
 
-        // Regjistrimi i shërbimeve të nevojshme
+        services.AddIdentity<User, Role>(options =>
+        {
+            options.SignIn.RequireConfirmedAccount = true;
+        })
+      .AddEntityFrameworkStores<ApplicationDbContext>()
+      .AddDefaultTokenProviders();
+
         services.AddControllersWithViews();
+
     }
+
+
 
     public static void Configure(IApplicationBuilder app, IConfiguration configuration)
     {
@@ -54,8 +67,10 @@ public class Program
 
         app.UseRouting();
 
+        app.UseAuthentication();
         app.UseAuthorization();
 
+       
 
         app.UseEndpoints(endpoints =>
         {

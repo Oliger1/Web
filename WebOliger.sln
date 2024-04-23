@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33213.308
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebOliger", "WebOliger.csproj", "{AFEE2BE0-2D52-4D7F-8DDC-D2D866EC6EA1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebGeri", "WebGeri.csproj", "{AFEE2BE0-2D52-4D7F-8DDC-D2D866EC6EA1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

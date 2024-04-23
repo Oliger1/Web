@@ -1,8 +1,8 @@
 {
   "dependencies": {
-    "mssql1": {
+    "mssql2": {
       "type": "mssql",
-      "connectionId": "ConnectionStrings:OLIGERI:user",
+      "connectionId": "ConnectionStrings:Sql6031",
       "dynamicId": null
     }
   }

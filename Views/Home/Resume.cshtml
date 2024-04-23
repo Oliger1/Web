@@ -177,10 +177,58 @@
                 .save-button:hover {
                     background-color: #45a049;
                 }
+
+        .search-container {
+            margin-top: 20px;
+            margin-bottom: 20px;
+        }
+
+            .search-container input[type=text] {
+                padding: 10px;
+                width: 100%;
+                font-size: 16px;
+                border-radius: 5px;
+                border: 1px solid #ccc;
+                box-sizing: border-box;
+            }
+
+                .search-container input[type=text]:focus {
+                    outline: none;
+                    border-color:   #2196F3;
+                }
     </style>
 </head>
 <body>
     <h2>Resumes</h2>
+
+    <br>
+        <input type="text" id="searchInput" placeholder="Search" />
+        <script>
+            document.getElementById("searchInput").addEventListener("keyup", function () {
+                var input, filter, table, tr, td, i, txtValue;
+                input = document.getElementById("searchInput");
+                filter = input.value.toUpperCase();
+                table = document.getElementsByTagName("table")[0];
+                tr = table.getElementsByTagName("tr");
+
+                for (i = 0; i < tr.length; i++) {
+                    td = tr[i].getElementsByTagName("td");
+                    for (var j = 0; j < td.length; j++) {
+                        if (td[j]) {
+                            txtValue = td[j].textContent || td[j].innerText;
+                            if (txtValue.toUpperCase().indexOf(filter) > -1) {
+                                tr[i].style.display = "";
+                                break;
+                            } else {
+                                tr[i].style.display = "none";
+                            }
+                        }
+                    }
+                }
+            });
+        </script>
+        </br>
+    
     <table>
         <thead>
             <tr>
@@ -311,6 +359,8 @@
         function closeConfirmationModal() {
             document.getElementById('confirmationModal').style.display = 'none';
         }
+
+
     </script>
 </body>
 </html>
